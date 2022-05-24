@@ -1,10 +1,13 @@
 
 def add(a, b):
-    pass  # ...
+  sum =a+b
+  return sum
+  
 
 
 def output(a, b, sum):
-    pass  # ...
+  print("the sum of {0} and {1} is 
+  {2}".format(num1,num2,sum)))
 
 
 def main():
